@@ -1,0 +1,335 @@
+C:\Users\Денис\Desktop\dopin\bin\Debug\dopin.exe.config
+C:\Users\Денис\Desktop\dopin\bin\Debug\dopin.exe
+C:\Users\Денис\Desktop\dopin\bin\Debug\dopin.pdb
+C:\Users\Денис\Desktop\dopin\obj\Debug\dopin.csproj.AssemblyReference.cache
+C:\Users\Денис\Desktop\dopin\obj\Debug\dopin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Денис\Desktop\dopin\obj\Debug\doping1.g.cs
+C:\Users\Денис\Desktop\dopin\obj\Debug\doping10.g.cs
+C:\Users\Денис\Desktop\dopin\obj\Debug\doping11.g.cs
+C:\Users\Денис\Desktop\dopin\obj\Debug\doping2.g.cs
+C:\Users\Денис\Desktop\dopin\obj\Debug\doping3.g.cs
+C:\Users\Денис\Desktop\dopin\obj\Debug\doping4.g.cs
+C:\Users\Денис\Desktop\dopin\obj\Debug\doping5.g.cs
+C:\Users\Денис\Desktop\dopin\obj\Debug\doping6.g.cs
+C:\Users\Денис\Desktop\dopin\obj\Debug\doping7.g.cs
+C:\Users\Денис\Desktop\dopin\obj\Debug\doping8.g.cs
+C:\Users\Денис\Desktop\dopin\obj\Debug\doping9.g.cs
+C:\Users\Денис\Desktop\dopin\obj\Debug\glavnay.g.cs
+C:\Users\Денис\Desktop\dopin\obj\Debug\MainWindow.g.cs
+C:\Users\Денис\Desktop\dopin\obj\Debug\vxod1.g.cs
+C:\Users\Денис\Desktop\dopin\obj\Debug\vxod2.g.cs
+C:\Users\Денис\Desktop\dopin\obj\Debug\App.g.cs
+C:\Users\Денис\Desktop\dopin\obj\Debug\dopin_MarkupCompile.cache
+C:\Users\Денис\Desktop\dopin\obj\Debug\dopin_MarkupCompile.lref
+C:\Users\Денис\Desktop\dopin\obj\Debug\doping1.baml
+C:\Users\Денис\Desktop\dopin\obj\Debug\doping10.baml
+C:\Users\Денис\Desktop\dopin\obj\Debug\doping11.baml
+C:\Users\Денис\Desktop\dopin\obj\Debug\doping2.baml
+C:\Users\Денис\Desktop\dopin\obj\Debug\doping3.baml
+C:\Users\Денис\Desktop\dopin\obj\Debug\doping4.baml
+C:\Users\Денис\Desktop\dopin\obj\Debug\doping5.baml
+C:\Users\Денис\Desktop\dopin\obj\Debug\doping6.baml
+C:\Users\Денис\Desktop\dopin\obj\Debug\doping7.baml
+C:\Users\Денис\Desktop\dopin\obj\Debug\doping8.baml
+C:\Users\Денис\Desktop\dopin\obj\Debug\doping9.baml
+C:\Users\Денис\Desktop\dopin\obj\Debug\glavnay.baml
+C:\Users\Денис\Desktop\dopin\obj\Debug\MainWindow.baml
+C:\Users\Денис\Desktop\dopin\obj\Debug\vxod1.baml
+C:\Users\Денис\Desktop\dopin\obj\Debug\vxod2.baml
+C:\Users\Денис\Desktop\dopin\obj\Debug\dopin.g.resources
+C:\Users\Денис\Desktop\dopin\obj\Debug\dopin.Properties.Resources.resources
+C:\Users\Денис\Desktop\dopin\obj\Debug\dopin.csproj.GenerateResource.cache
+C:\Users\Денис\Desktop\dopin\obj\Debug\dopin.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\dopin\obj\Debug\dopin.exe
+C:\Users\Денис\Desktop\dopin\obj\Debug\dopin.pdb
+C:\Users\Денис\Desktop\dopin\obj\Debug\doping12.g.cs
+C:\Users\Денис\Desktop\dopin\obj\Debug\doping12.baml
+F:\dopin\bin\Debug\dopin.exe.config
+F:\dopin\bin\Debug\dopin.exe
+F:\dopin\bin\Debug\dopin.pdb
+F:\dopin\obj\Debug\dopin.csproj.AssemblyReference.cache
+F:\dopin\obj\Debug\dopin.csproj.SuggestedBindingRedirects.cache
+F:\dopin\obj\Debug\doping1.g.cs
+F:\dopin\obj\Debug\doping10.g.cs
+F:\dopin\obj\Debug\doping11.g.cs
+F:\dopin\obj\Debug\doping12.g.cs
+F:\dopin\obj\Debug\doping2.g.cs
+F:\dopin\obj\Debug\doping3.g.cs
+F:\dopin\obj\Debug\doping4.g.cs
+F:\dopin\obj\Debug\doping5.g.cs
+F:\dopin\obj\Debug\doping6.g.cs
+F:\dopin\obj\Debug\doping7.g.cs
+F:\dopin\obj\Debug\doping8.g.cs
+F:\dopin\obj\Debug\doping9.g.cs
+F:\dopin\obj\Debug\glavnay.g.cs
+F:\dopin\obj\Debug\MainWindow.g.cs
+F:\dopin\obj\Debug\vxod1.g.cs
+F:\dopin\obj\Debug\vxod2.g.cs
+F:\dopin\obj\Debug\App.g.cs
+F:\dopin\obj\Debug\dopin_MarkupCompile.cache
+F:\dopin\obj\Debug\dopin_MarkupCompile.lref
+F:\dopin\obj\Debug\doping1.baml
+F:\dopin\obj\Debug\doping10.baml
+F:\dopin\obj\Debug\doping11.baml
+F:\dopin\obj\Debug\doping12.baml
+F:\dopin\obj\Debug\doping2.baml
+F:\dopin\obj\Debug\doping3.baml
+F:\dopin\obj\Debug\doping4.baml
+F:\dopin\obj\Debug\doping5.baml
+F:\dopin\obj\Debug\doping6.baml
+F:\dopin\obj\Debug\doping7.baml
+F:\dopin\obj\Debug\doping8.baml
+F:\dopin\obj\Debug\doping9.baml
+F:\dopin\obj\Debug\glavnay.baml
+F:\dopin\obj\Debug\MainWindow.baml
+F:\dopin\obj\Debug\vxod1.baml
+F:\dopin\obj\Debug\vxod2.baml
+F:\dopin\obj\Debug\dopin.g.resources
+F:\dopin\obj\Debug\dopin.Properties.Resources.resources
+F:\dopin\obj\Debug\dopin.csproj.GenerateResource.cache
+F:\dopin\obj\Debug\dopin.csproj.CoreCompileInputs.cache
+F:\dopin\obj\Debug\dopin.exe
+F:\dopin\obj\Debug\dopin.pdb
+F:\dopin\obj\Debug\zdite.g.cs
+F:\dopin\obj\Debug\zdite.baml
+E:\dopin\bin\Debug\dopin.exe.config
+E:\dopin\bin\Debug\dopin.exe
+E:\dopin\bin\Debug\dopin.pdb
+E:\dopin\obj\Debug\dopin.csproj.AssemblyReference.cache
+E:\dopin\obj\Debug\dopin.csproj.SuggestedBindingRedirects.cache
+E:\dopin\obj\Debug\doping1.g.cs
+E:\dopin\obj\Debug\doping10.g.cs
+E:\dopin\obj\Debug\doping11.g.cs
+E:\dopin\obj\Debug\doping12.g.cs
+E:\dopin\obj\Debug\doping2.g.cs
+E:\dopin\obj\Debug\doping3.g.cs
+E:\dopin\obj\Debug\doping4.g.cs
+E:\dopin\obj\Debug\doping5.g.cs
+E:\dopin\obj\Debug\doping6.g.cs
+E:\dopin\obj\Debug\doping7.g.cs
+E:\dopin\obj\Debug\doping8.g.cs
+E:\dopin\obj\Debug\doping9.g.cs
+E:\dopin\obj\Debug\glavnay.g.cs
+E:\dopin\obj\Debug\MainWindow.g.cs
+E:\dopin\obj\Debug\vxod1.g.cs
+E:\dopin\obj\Debug\vxod2.g.cs
+E:\dopin\obj\Debug\zdite.g.cs
+E:\dopin\obj\Debug\App.g.cs
+E:\dopin\obj\Debug\dopin_MarkupCompile.cache
+E:\dopin\obj\Debug\dopin_MarkupCompile.lref
+E:\dopin\obj\Debug\doping1.baml
+E:\dopin\obj\Debug\doping10.baml
+E:\dopin\obj\Debug\doping11.baml
+E:\dopin\obj\Debug\doping12.baml
+E:\dopin\obj\Debug\doping2.baml
+E:\dopin\obj\Debug\doping3.baml
+E:\dopin\obj\Debug\doping4.baml
+E:\dopin\obj\Debug\doping5.baml
+E:\dopin\obj\Debug\doping6.baml
+E:\dopin\obj\Debug\doping7.baml
+E:\dopin\obj\Debug\doping8.baml
+E:\dopin\obj\Debug\doping9.baml
+E:\dopin\obj\Debug\glavnay.baml
+E:\dopin\obj\Debug\MainWindow.baml
+E:\dopin\obj\Debug\vxod1.baml
+E:\dopin\obj\Debug\vxod2.baml
+E:\dopin\obj\Debug\zdite.baml
+E:\dopin\obj\Debug\dopin.g.resources
+E:\dopin\obj\Debug\dopin.Properties.Resources.resources
+E:\dopin\obj\Debug\dopin.csproj.GenerateResource.cache
+E:\dopin\obj\Debug\dopin.csproj.CoreCompileInputs.cache
+E:\dopin\obj\Debug\dopin.exe
+E:\dopin\obj\Debug\dopin.pdb
+D:\dopin\bin\Debug\dopin.exe.config
+D:\dopin\bin\Debug\dopin.exe
+D:\dopin\bin\Debug\dopin.pdb
+D:\dopin\obj\Debug\dopin.csproj.AssemblyReference.cache
+D:\dopin\obj\Debug\doping1.g.cs
+D:\dopin\obj\Debug\doping10.g.cs
+D:\dopin\obj\Debug\doping11.g.cs
+D:\dopin\obj\Debug\doping12.g.cs
+D:\dopin\obj\Debug\doping2.g.cs
+D:\dopin\obj\Debug\doping3.g.cs
+D:\dopin\obj\Debug\doping4.g.cs
+D:\dopin\obj\Debug\doping5.g.cs
+D:\dopin\obj\Debug\doping6.g.cs
+D:\dopin\obj\Debug\doping7.g.cs
+D:\dopin\obj\Debug\doping8.g.cs
+D:\dopin\obj\Debug\doping9.g.cs
+D:\dopin\obj\Debug\glavnay.g.cs
+D:\dopin\obj\Debug\MainWindow.g.cs
+D:\dopin\obj\Debug\vxod1.g.cs
+D:\dopin\obj\Debug\vxod2.g.cs
+D:\dopin\obj\Debug\zdite.g.cs
+D:\dopin\obj\Debug\App.g.cs
+D:\dopin\obj\Debug\dopin_MarkupCompile.cache
+D:\dopin\obj\Debug\dopin_MarkupCompile.lref
+D:\dopin\obj\Debug\doping1.baml
+D:\dopin\obj\Debug\doping10.baml
+D:\dopin\obj\Debug\doping11.baml
+D:\dopin\obj\Debug\doping12.baml
+D:\dopin\obj\Debug\doping2.baml
+D:\dopin\obj\Debug\doping3.baml
+D:\dopin\obj\Debug\doping4.baml
+D:\dopin\obj\Debug\doping5.baml
+D:\dopin\obj\Debug\doping6.baml
+D:\dopin\obj\Debug\doping7.baml
+D:\dopin\obj\Debug\doping8.baml
+D:\dopin\obj\Debug\doping9.baml
+D:\dopin\obj\Debug\glavnay.baml
+D:\dopin\obj\Debug\MainWindow.baml
+D:\dopin\obj\Debug\vxod1.baml
+D:\dopin\obj\Debug\vxod2.baml
+D:\dopin\obj\Debug\zdite.baml
+D:\dopin\obj\Debug\dopin.g.resources
+D:\dopin\obj\Debug\dopin.Properties.Resources.resources
+D:\dopin\obj\Debug\dopin.csproj.GenerateResource.cache
+D:\dopin\obj\Debug\dopin.csproj.CoreCompileInputs.cache
+D:\dopin\obj\Debug\dopin.exe
+D:\dopin\obj\Debug\dopin.pdb
+C:\Users\Student\Desktop\dopin\bin\Debug\dopin.exe.config
+C:\Users\Student\Desktop\dopin\bin\Debug\dopin.exe
+C:\Users\Student\Desktop\dopin\bin\Debug\dopin.pdb
+C:\Users\Student\Desktop\dopin\obj\Debug\dopin.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\dopin\obj\Debug\dopin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\Desktop\dopin\obj\Debug\doping1.g.cs
+C:\Users\Student\Desktop\dopin\obj\Debug\doping10.g.cs
+C:\Users\Student\Desktop\dopin\obj\Debug\doping11.g.cs
+C:\Users\Student\Desktop\dopin\obj\Debug\doping12.g.cs
+C:\Users\Student\Desktop\dopin\obj\Debug\doping2.g.cs
+C:\Users\Student\Desktop\dopin\obj\Debug\doping3.g.cs
+C:\Users\Student\Desktop\dopin\obj\Debug\doping4.g.cs
+C:\Users\Student\Desktop\dopin\obj\Debug\doping5.g.cs
+C:\Users\Student\Desktop\dopin\obj\Debug\doping6.g.cs
+C:\Users\Student\Desktop\dopin\obj\Debug\doping7.g.cs
+C:\Users\Student\Desktop\dopin\obj\Debug\doping8.g.cs
+C:\Users\Student\Desktop\dopin\obj\Debug\doping9.g.cs
+C:\Users\Student\Desktop\dopin\obj\Debug\glavnay.g.cs
+C:\Users\Student\Desktop\dopin\obj\Debug\MainWindow.g.cs
+C:\Users\Student\Desktop\dopin\obj\Debug\vxod1.g.cs
+C:\Users\Student\Desktop\dopin\obj\Debug\vxod2.g.cs
+C:\Users\Student\Desktop\dopin\obj\Debug\zdite.g.cs
+C:\Users\Student\Desktop\dopin\obj\Debug\App.g.cs
+C:\Users\Student\Desktop\dopin\obj\Debug\dopin_MarkupCompile.cache
+C:\Users\Student\Desktop\dopin\obj\Debug\dopin_MarkupCompile.lref
+C:\Users\Student\Desktop\dopin\obj\Debug\doping1.baml
+C:\Users\Student\Desktop\dopin\obj\Debug\doping10.baml
+C:\Users\Student\Desktop\dopin\obj\Debug\doping11.baml
+C:\Users\Student\Desktop\dopin\obj\Debug\doping12.baml
+C:\Users\Student\Desktop\dopin\obj\Debug\doping2.baml
+C:\Users\Student\Desktop\dopin\obj\Debug\doping3.baml
+C:\Users\Student\Desktop\dopin\obj\Debug\doping4.baml
+C:\Users\Student\Desktop\dopin\obj\Debug\doping5.baml
+C:\Users\Student\Desktop\dopin\obj\Debug\doping6.baml
+C:\Users\Student\Desktop\dopin\obj\Debug\doping7.baml
+C:\Users\Student\Desktop\dopin\obj\Debug\doping8.baml
+C:\Users\Student\Desktop\dopin\obj\Debug\doping9.baml
+C:\Users\Student\Desktop\dopin\obj\Debug\glavnay.baml
+C:\Users\Student\Desktop\dopin\obj\Debug\MainWindow.baml
+C:\Users\Student\Desktop\dopin\obj\Debug\vxod1.baml
+C:\Users\Student\Desktop\dopin\obj\Debug\vxod2.baml
+C:\Users\Student\Desktop\dopin\obj\Debug\zdite.baml
+C:\Users\Student\Desktop\dopin\obj\Debug\dopin.g.resources
+C:\Users\Student\Desktop\dopin\obj\Debug\dopin.Properties.Resources.resources
+C:\Users\Student\Desktop\dopin\obj\Debug\dopin.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\dopin\obj\Debug\dopin.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\dopin\obj\Debug\dopin.exe
+C:\Users\Student\Desktop\dopin\obj\Debug\dopin.pdb
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\bin\Debug\dopin.exe.config
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\bin\Debug\dopin.exe
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\bin\Debug\dopin.pdb
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\dopin.csproj.AssemblyReference.cache
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\dopin.csproj.SuggestedBindingRedirects.cache
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\doping1.g.cs
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\doping10.g.cs
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\doping11.g.cs
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\doping12.g.cs
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\doping2.g.cs
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\doping3.g.cs
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\doping4.g.cs
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\doping5.g.cs
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\doping6.g.cs
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\doping7.g.cs
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\doping8.g.cs
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\doping9.g.cs
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\glavnay.g.cs
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\MainWindow.g.cs
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\vxod1.g.cs
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\vxod2.g.cs
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\zdite.g.cs
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\App.g.cs
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\dopin_MarkupCompile.cache
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\dopin_MarkupCompile.lref
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\doping1.baml
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\doping10.baml
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\doping11.baml
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\doping12.baml
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\doping2.baml
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\doping3.baml
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\doping4.baml
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\doping5.baml
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\doping6.baml
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\doping7.baml
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\doping8.baml
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\doping9.baml
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\glavnay.baml
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\MainWindow.baml
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\vxod1.baml
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\vxod2.baml
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\zdite.baml
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\dopin.g.resources
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\dopin.Properties.Resources.resources
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\dopin.csproj.GenerateResource.cache
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\dopin.csproj.CoreCompileInputs.cache
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\dopin.exe
+C:\Users\kozup\OneDrive\Рабочий стол\dopin\obj\Debug\dopin.pdb
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\dopin.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\dopin.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\doping1.g.cs
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\doping10.g.cs
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\doping11.g.cs
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\doping12.g.cs
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\doping2.g.cs
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\doping3.g.cs
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\doping4.g.cs
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\doping5.g.cs
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\doping6.g.cs
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\doping7.g.cs
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\doping8.g.cs
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\doping9.g.cs
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\glavnay.g.cs
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\vxod1.g.cs
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\vxod2.g.cs
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\zdite.g.cs
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\dopin_Content.g.cs
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\dopin_MarkupCompile.cache
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\dopin_MarkupCompile.lref
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\dopin.exe
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\dopin.pdb
+C:\Users\user\Desktop\Допинг\Допинг\dopin\bin\Debug\ДопингБД.accdb
+C:\Users\user\Desktop\Допинг\Допинг\dopin\bin\Debug\dopin.exe.config
+C:\Users\user\Desktop\Допинг\Допинг\dopin\bin\Debug\dopin.exe
+C:\Users\user\Desktop\Допинг\Допинг\dopin\bin\Debug\dopin.pdb
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\doping1.baml
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\doping10.baml
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\doping11.baml
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\doping12.baml
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\doping2.baml
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\doping3.baml
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\doping4.baml
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\doping5.baml
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\doping6.baml
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\doping7.baml
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\doping8.baml
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\doping9.baml
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\glavnay.baml
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\vxod1.baml
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\vxod2.baml
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\zdite.baml
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\dopin.g.resources
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\dopin.Properties.Resources.resources
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\dopin.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\Debug\dopin.csproj.CoreCompileInputs.cache

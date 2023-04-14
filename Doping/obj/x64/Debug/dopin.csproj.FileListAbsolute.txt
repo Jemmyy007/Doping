@@ -1,0 +1,169 @@
+C:\Users\user\Desktop\Допинг\Допинг\dopin\bin\x64\Debug\dopin.exe.config
+C:\Users\user\Desktop\Допинг\Допинг\dopin\bin\x64\Debug\dopin.exe
+C:\Users\user\Desktop\Допинг\Допинг\dopin\bin\x64\Debug\dopin.pdb
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\x64\Debug\dopin.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\x64\Debug\dopin.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\x64\Debug\doping1.g.cs
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\x64\Debug\doping11.g.cs
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\x64\Debug\doping12.g.cs
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\x64\Debug\doping2.g.cs
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\x64\Debug\doping3.g.cs
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\x64\Debug\doping4.g.cs
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\x64\Debug\doping8.g.cs
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\x64\Debug\doping9.g.cs
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\x64\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\x64\Debug\vxod1.g.cs
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\x64\Debug\vxod2.g.cs
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\x64\Debug\App.g.cs
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\x64\Debug\dopin_Content.g.cs
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\x64\Debug\dopin_MarkupCompile.cache
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\x64\Debug\dopin_MarkupCompile.lref
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\x64\Debug\doping1.baml
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\x64\Debug\doping11.baml
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\x64\Debug\doping12.baml
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\x64\Debug\doping2.baml
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\x64\Debug\doping3.baml
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\x64\Debug\doping4.baml
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\x64\Debug\doping8.baml
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\x64\Debug\doping9.baml
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\x64\Debug\MainWindow.baml
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\x64\Debug\vxod1.baml
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\x64\Debug\vxod2.baml
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\x64\Debug\dopin.g.resources
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\x64\Debug\dopin.Properties.Resources.resources
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\x64\Debug\dopin.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\x64\Debug\dopin.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\x64\Debug\dopin.exe
+C:\Users\user\Desktop\Допинг\Допинг\dopin\obj\x64\Debug\dopin.pdb
+C:\Users\user\Desktop\Допинг\Допинг\dopin\bin\x64\Debug\ДопингБДDataSet.Designer.cs
+C:\Users\user\Desktop\Допинг\Допинг\dopin\bin\x64\Debug\ДопингБДDataSet.xsc
+C:\Users\user\Desktop\Допинг\Допинг\dopin\bin\x64\Debug\ДопингБДDataSet.xsd
+C:\Users\user\Desktop\Допинг\Допинг\dopin\bin\x64\Debug\ДопингБДDataSet.xss
+C:\Users\kozup\OneDrive\Рабочий стол\40ddbf1b9ce44277\Допинг\dopin\bin\x64\Debug\ДопингБДDataSet.Designer.cs
+C:\Users\kozup\OneDrive\Рабочий стол\40ddbf1b9ce44277\Допинг\dopin\bin\x64\Debug\ДопингБДDataSet.xsc
+C:\Users\kozup\OneDrive\Рабочий стол\40ddbf1b9ce44277\Допинг\dopin\bin\x64\Debug\ДопингБДDataSet.xsd
+C:\Users\kozup\OneDrive\Рабочий стол\40ddbf1b9ce44277\Допинг\dopin\bin\x64\Debug\ДопингБДDataSet.xss
+C:\Users\kozup\OneDrive\Рабочий стол\40ddbf1b9ce44277\Допинг\dopin\bin\x64\Debug\dopin.exe.config
+C:\Users\kozup\OneDrive\Рабочий стол\40ddbf1b9ce44277\Допинг\dopin\bin\x64\Debug\dopin.exe
+C:\Users\kozup\OneDrive\Рабочий стол\40ddbf1b9ce44277\Допинг\dopin\bin\x64\Debug\dopin.pdb
+C:\Users\kozup\OneDrive\Рабочий стол\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\dopin.csproj.AssemblyReference.cache
+C:\Users\kozup\OneDrive\Рабочий стол\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\dopin.csproj.SuggestedBindingRedirects.cache
+C:\Users\kozup\OneDrive\Рабочий стол\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\doping1.g.cs
+C:\Users\kozup\OneDrive\Рабочий стол\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\doping11.g.cs
+C:\Users\kozup\OneDrive\Рабочий стол\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\doping12.g.cs
+C:\Users\kozup\OneDrive\Рабочий стол\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\doping2.g.cs
+C:\Users\kozup\OneDrive\Рабочий стол\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\doping3.g.cs
+C:\Users\kozup\OneDrive\Рабочий стол\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\doping4.g.cs
+C:\Users\kozup\OneDrive\Рабочий стол\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\doping8.g.cs
+C:\Users\kozup\OneDrive\Рабочий стол\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\doping9.g.cs
+C:\Users\kozup\OneDrive\Рабочий стол\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\MainWindow.g.cs
+C:\Users\kozup\OneDrive\Рабочий стол\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\vxod1.g.cs
+C:\Users\kozup\OneDrive\Рабочий стол\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\vxod2.g.cs
+C:\Users\kozup\OneDrive\Рабочий стол\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\App.g.cs
+C:\Users\kozup\OneDrive\Рабочий стол\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\dopin_Content.g.cs
+C:\Users\kozup\OneDrive\Рабочий стол\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\dopin_MarkupCompile.cache
+C:\Users\kozup\OneDrive\Рабочий стол\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\dopin_MarkupCompile.lref
+C:\Users\kozup\OneDrive\Рабочий стол\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\App.baml
+C:\Users\kozup\OneDrive\Рабочий стол\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\doping1.baml
+C:\Users\kozup\OneDrive\Рабочий стол\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\doping11.baml
+C:\Users\kozup\OneDrive\Рабочий стол\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\doping12.baml
+C:\Users\kozup\OneDrive\Рабочий стол\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\doping2.baml
+C:\Users\kozup\OneDrive\Рабочий стол\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\doping3.baml
+C:\Users\kozup\OneDrive\Рабочий стол\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\doping4.baml
+C:\Users\kozup\OneDrive\Рабочий стол\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\doping8.baml
+C:\Users\kozup\OneDrive\Рабочий стол\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\doping9.baml
+C:\Users\kozup\OneDrive\Рабочий стол\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\MainWindow.baml
+C:\Users\kozup\OneDrive\Рабочий стол\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\vxod1.baml
+C:\Users\kozup\OneDrive\Рабочий стол\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\vxod2.baml
+C:\Users\kozup\OneDrive\Рабочий стол\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\dopin.g.resources
+C:\Users\kozup\OneDrive\Рабочий стол\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\dopin.Properties.Resources.resources
+C:\Users\kozup\OneDrive\Рабочий стол\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\dopin.csproj.GenerateResource.cache
+C:\Users\kozup\OneDrive\Рабочий стол\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\dopin.csproj.CoreCompileInputs.cache
+C:\Users\kozup\OneDrive\Рабочий стол\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\dopin.exe
+C:\Users\kozup\OneDrive\Рабочий стол\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\dopin.pdb
+E:\C#\Допинг!\Ljg\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\dopin.csproj.AssemblyReference.cache
+E:\C#\Допинг!\Ljg\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\dopin.csproj.SuggestedBindingRedirects.cache
+E:\C#\Допинг!\Ljg\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\doping1.g.cs
+E:\C#\Допинг!\Ljg\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\doping11.g.cs
+E:\C#\Допинг!\Ljg\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\doping12.g.cs
+E:\C#\Допинг!\Ljg\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\doping2.g.cs
+E:\C#\Допинг!\Ljg\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\doping3.g.cs
+E:\C#\Допинг!\Ljg\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\doping4.g.cs
+E:\C#\Допинг!\Ljg\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\doping8.g.cs
+E:\C#\Допинг!\Ljg\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\doping9.g.cs
+E:\C#\Допинг!\Ljg\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\MainWindow.g.cs
+E:\C#\Допинг!\Ljg\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\vxod1.g.cs
+E:\C#\Допинг!\Ljg\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\vxod2.g.cs
+E:\C#\Допинг!\Ljg\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\App.g.cs
+E:\C#\Допинг!\Ljg\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\dopin_Content.g.cs
+E:\C#\Допинг!\Ljg\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\dopin_MarkupCompile.cache
+E:\C#\Допинг!\Ljg\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\dopin_MarkupCompile.lref
+E:\C#\Допинг!\Ljg\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\dopin.exe
+E:\C#\Допинг!\Ljg\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\dopin.pdb
+E:\C#\Допинг!\Ljg\40ddbf1b9ce44277\Допинг\dopin\bin\x64\Debug\ДопингБДDataSet.Designer.cs
+E:\C#\Допинг!\Ljg\40ddbf1b9ce44277\Допинг\dopin\bin\x64\Debug\ДопингБДDataSet.xsc
+E:\C#\Допинг!\Ljg\40ddbf1b9ce44277\Допинг\dopin\bin\x64\Debug\ДопингБДDataSet.xsd
+E:\C#\Допинг!\Ljg\40ddbf1b9ce44277\Допинг\dopin\bin\x64\Debug\ДопингБДDataSet.xss
+E:\C#\Допинг!\Ljg\40ddbf1b9ce44277\Допинг\dopin\bin\x64\Debug\dopin.exe.config
+E:\C#\Допинг!\Ljg\40ddbf1b9ce44277\Допинг\dopin\bin\x64\Debug\dopin.exe
+E:\C#\Допинг!\Ljg\40ddbf1b9ce44277\Допинг\dopin\bin\x64\Debug\dopin.pdb
+E:\C#\Допинг!\Ljg\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\App.baml
+E:\C#\Допинг!\Ljg\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\doping1.baml
+E:\C#\Допинг!\Ljg\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\doping11.baml
+E:\C#\Допинг!\Ljg\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\doping12.baml
+E:\C#\Допинг!\Ljg\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\doping2.baml
+E:\C#\Допинг!\Ljg\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\doping3.baml
+E:\C#\Допинг!\Ljg\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\doping4.baml
+E:\C#\Допинг!\Ljg\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\doping8.baml
+E:\C#\Допинг!\Ljg\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\doping9.baml
+E:\C#\Допинг!\Ljg\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\MainWindow.baml
+E:\C#\Допинг!\Ljg\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\vxod1.baml
+E:\C#\Допинг!\Ljg\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\vxod2.baml
+E:\C#\Допинг!\Ljg\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\dopin.g.resources
+E:\C#\Допинг!\Ljg\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\dopin.Properties.Resources.resources
+E:\C#\Допинг!\Ljg\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\dopin.csproj.GenerateResource.cache
+E:\C#\Допинг!\Ljg\40ddbf1b9ce44277\Допинг\dopin\obj\x64\Debug\dopin.csproj.CoreCompileInputs.cache
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\bin\x64\Debug\ДопингБДDataSet.Designer.cs
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\bin\x64\Debug\ДопингБДDataSet.xsc
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\bin\x64\Debug\ДопингБДDataSet.xsd
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\bin\x64\Debug\ДопингБДDataSet.xss
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\bin\x64\Debug\dopin.exe.config
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\bin\x64\Debug\dopin.exe
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\bin\x64\Debug\dopin.pdb
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\obj\x64\Debug\dopin.csproj.AssemblyReference.cache
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\obj\x64\Debug\dopin.csproj.SuggestedBindingRedirects.cache
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\obj\x64\Debug\Company.g.cs
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\obj\x64\Debug\doping1.g.cs
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\obj\x64\Debug\doping11.g.cs
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\obj\x64\Debug\doping12.g.cs
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\obj\x64\Debug\doping2.g.cs
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\obj\x64\Debug\doping3.g.cs
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\obj\x64\Debug\doping4.g.cs
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\obj\x64\Debug\doping8.g.cs
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\obj\x64\Debug\doping9.g.cs
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\obj\x64\Debug\MainWindow.g.cs
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\obj\x64\Debug\vxod1.g.cs
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\obj\x64\Debug\vxod2.g.cs
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\obj\x64\Debug\App.g.cs
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\obj\x64\Debug\dopin_Content.g.cs
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\obj\x64\Debug\dopin_MarkupCompile.cache
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\obj\x64\Debug\dopin_MarkupCompile.lref
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\obj\x64\Debug\App.baml
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\obj\x64\Debug\doping1.baml
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\obj\x64\Debug\doping11.baml
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\obj\x64\Debug\doping12.baml
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\obj\x64\Debug\doping2.baml
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\obj\x64\Debug\doping3.baml
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\obj\x64\Debug\doping4.baml
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\obj\x64\Debug\doping8.baml
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\obj\x64\Debug\doping9.baml
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\obj\x64\Debug\MainWindow.baml
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\obj\x64\Debug\vxod1.baml
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\obj\x64\Debug\vxod2.baml
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\obj\x64\Debug\Company.baml
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\obj\x64\Debug\dopin.g.resources
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\obj\x64\Debug\dopin.Properties.Resources.resources
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\obj\x64\Debug\dopin.csproj.GenerateResource.cache
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\obj\x64\Debug\dopin.csproj.CoreCompileInputs.cache
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\obj\x64\Debug\dopin.exe
+E:\C#\Допинг!\Ljg\ДОПИНГ\Допинг\dopin\obj\x64\Debug\dopin.pdb
